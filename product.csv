@@ -1,0 +1,101 @@
+product_id,product_name,category,price_per_unit,supplier_id,reorder_point,lead_time
+1,T-shirt,Clothing,72.91,7,9,4
+6,Jeans,Clothing,23.45,14,13,6
+20,Sweater,Clothing,51.21,17,8,8
+22,Jacket,Clothing,81.87,7,13,7
+28,Dress,Clothing,54.62,1,17,10
+43,Shirt,Clothing,21.19,3,8,7
+45,Pants,Clothing,73.32,16,8,3
+47,Skirt,Clothing,93.52,20,7,6
+49,Socks,Clothing,29.61,10,7,2
+56,Coat,Clothing,52.48,15,9,10
+61,Scarf,Clothing,71.54,2,10,8
+68,Gloves,Clothing,25.72,7,5,6
+70,Hat,Clothing,92.97,4,16,8
+71,Belt,Clothing,94.78,4,15,10
+74,Shorts,Clothing,67.02,13,7,8
+77,Blazer,Clothing,7.19,19,20,5
+85,Pajamas,Clothing,59.63,6,7,9
+92,Hoodie,Clothing,95.96,20,11,10
+98,Tracksuit,Clothing,35.05,14,17,1
+2,Smartphone,Electronics,6.22,17,16,8
+5,Laptop,Electronics,99.28,4,17,10
+12,Headphones,Electronics,66.22,13,17,10
+13,Camera,Electronics,54.26,7,18,3
+18,Tablet,Electronics,11.63,14,18,5
+24,Smartwatch,Electronics,32.85,13,8,5
+25,Speaker,Electronics,37.5,19,12,8
+33,TV,Electronics,48.41,13,9,1
+36,Game Console,Electronics,98.69,11,5,6
+37,Router,Electronics,97.11,11,19,4
+44,Monitor,Electronics,20.22,11,17,5
+50,Projector,Electronics,37.32,19,11,2
+52,Keyboard,Electronics,34.53,19,11,7
+66,Mouse,Electronics,85.73,10,19,3
+73,Smart Home Device,Electronics,27.88,16,14,10
+76,Drone,Electronics,16.08,4,20,9
+78,Fitness Tracker,Electronics,80.46,6,17,8
+80,VR Headset,Electronics,72.81,18,10,7
+81,E-reader,Electronics,42.41,18,20,2
+83,External Hard Drive,Electronics,22.16,20,10,1
+88,Bluetooth Earbuds,Electronics,28.59,2,14,9
+91,Webcam,Electronics,27.52,7,9,5
+100,Power Bank,Electronics,69.98,14,7,6
+7,Milk,Groceries,72.37,12,6,7
+10,Bread,Groceries,48.27,5,13,4
+11,Cheese,Groceries,59.94,6,5,2
+21,Eggs,Groceries,82.37,6,11,1
+29,Apples,Groceries,98.76,9,20,8
+32,Oranges,Groceries,10.44,12,15,2
+34,Bananas,Groceries,16.67,17,13,4
+38,Cereal,Groceries,51.03,20,7,6
+46,Flour,Groceries,65.19,16,7,6
+51,Butter,Groceries,39.94,11,17,10
+54,Sugar,Groceries,61.12,4,17,1
+55,Rice,Groceries,85.97,11,9,5
+58,Pasta,Groceries,99.08,4,13,10
+65,Coffee,Groceries,42.41,5,15,10
+67,Tea,Groceries,18.07,16,14,3
+69,Spices,Groceries,14.69,5,17,7
+82,Juice,Groceries,84.53,18,8,4
+84,Snacks,Groceries,47.49,11,8,1
+87,Frozen Vegetables,Groceries,33.36,18,10,7
+94,Cookies,Groceries,29.22,13,10,7
+96,Yogurt,Groceries,24.36,9,11,6
+97,Peanut Butter,Groceries,67.45,17,10,7
+99,Honey,Groceries,28.51,9,8,9
+9,Sofa,Home Goods,64.94,1,9,5
+15,Table,Home Goods,74.72,3,8,10
+16,Chair,Home Goods,82.35,9,11,7
+17,Bed,Home Goods,5.61,6,20,1
+27,Lamp,Home Goods,76.42,1,6,2
+30,Curtains,Home Goods,62.42,11,16,6
+31,Desk,Home Goods,82.6,12,17,7
+35,Rug,Home Goods,47.93,16,18,4
+40,Mirror,Home Goods,62.68,5,6,3
+57,Coffee Table,Home Goods,18.86,2,15,5
+86,Bookshelf,Home Goods,85.89,2,7,2
+90,Picture Frame,Home Goods,62.59,17,11,2
+93,Pillow,Home Goods,31.35,20,18,2
+3,Action Figure,Toys,92.94,13,16,7
+4,Toy Car,Toys,34.24,19,7,7
+8,Lego Set,Toys,74.89,8,20,1
+14,Puzzle,Toys,29.02,10,17,10
+19,Plush Toy,Toys,21.21,12,10,3
+23,Doll,Toys,64.55,20,8,3
+26,Remote Control Car,Toys,68.92,4,5,1
+39,Board Game,Toys,94.21,16,8,7
+41,Toy Train,Toys,80.7,10,19,3
+42,Building Blocks,Toys,95.73,16,12,4
+48,Water Gun,Toys,91.47,13,18,4
+53,Kite,Toys,35.37,12,9,9
+59,Toy Robot,Toys,64.95,7,20,5
+60,Ball,Toys,10.59,11,9,4
+62,Toy Drum,Toys,33.41,6,5,9
+63,Yo-Yo,Toys,37.05,16,16,7
+64,Magic Set,Toys,11.82,10,14,4
+72,Action Figure Set,Toys,97.12,13,12,1
+75,Toy Boat,Toys,31.15,15,16,1
+79,Stuffed Animal,Toys,33.34,5,8,6
+89,Toy Plane,Toys,18.29,16,15,9
+95,Slime Kit,Toys,12.91,9,18,3
