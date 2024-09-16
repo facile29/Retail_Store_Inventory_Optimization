@@ -63,16 +63,9 @@ group by p.product_name
 order by profit desc
 limit 3;
 
--- 8. Which products offer the best return after subtracting costs? 
-select p.product_name, SUM(s.sales_amount) - SUM(p.price_per_unit * s.quantity_sold) as "profit"
-from sales as s
-join product as p on s.product_id = p.product_id
-group by p.product_name
-order by profit desc;
-
 -- "seasonality and trends"
 
--- 9. Are there seasonal patterns in sales for specific products?
+-- 8. Are there seasonal patterns in sales for specific products?
 select p.product_name, EXTRACT(month from s.sale_date) as "sale_month", SUM(s.sales_amount) as "total_sales"
 from sales as s
 join product as p on s.product_id = p.product_id
@@ -81,7 +74,7 @@ order by p.product_name, sale_month desc;
 
 -- "supplier performance"
 
--- 10. Which suppliers’ products are selling the most?
+-- 9. Which suppliers’ products are selling the most?
 select sp.supplier_name, SUM(s.quantity_sold) as "total_sold"
 from sales as s
 join product as p on s.product_id = p.product_id
